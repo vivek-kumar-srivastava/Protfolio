@@ -321,7 +321,7 @@ const Body = () => {
       </div>
       {/* Hobbies  */}
       <center>
-        <h2 className="text-3xl font-serif font-semibold text-grey-300 border-b mb-12 p-2">
+        <h2 id="hobbies" className="text-3xl font-serif font-semibold text-grey-300 border-b mb-12 p-2">
           Hobbies-Interest & Interpersonal skills
         </h2>
       </center>

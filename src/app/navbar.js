@@ -6,6 +6,7 @@ const Navbarr = () => {
       <a href="#skills" className="text-white hover:underline text-sm">Skills</a>
        <a href="#cerificates" className="text-white hover:underline text-sm">Certificates</a>
       <a href="#projects" className="text-white hover:underline text-sm">Projects</a>
+       <a href="#hobbies" className="text-white hover:underline text-sm">Hobbies</a>
      
     </div>
   );
